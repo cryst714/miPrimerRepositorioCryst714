@@ -8,3 +8,6 @@ mi primer commit local
 Un commit mas desde gitHut, ahora replicare a mi pc
 
 una actualzaicon mas 
+
+
+cambios desde mi rama local llamada developer01
